@@ -1,8 +1,10 @@
-# MatrixData
+<p align="center">
+  <a href="https://matrixdata.io">
+    <img src="https://matrixdata.io/assets/images/p_nav_logo.svg" alt="MatrixData logo" width=150 height=150>
+  </a>
 
-
-[![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
+  <h3 align="center">MatrixData</h3>
+</p>
 
 # 官网地址
 
